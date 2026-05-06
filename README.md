@@ -64,7 +64,7 @@ Para armazenar os candidatos e respetivas contagens de votos, deve ser utilizado
 
 ### 6 | Verificação de memória
 
-Verifique a correta gestão de memória dinâmica (*heap*).
+9. Verifique a correta gestão de memória dinâmica (*heap*).
 
 ### Exemplo de Execução
 
