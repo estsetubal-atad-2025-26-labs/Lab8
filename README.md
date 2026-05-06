@@ -62,6 +62,10 @@ Para armazenar os candidatos e respetivas contagens de votos, deve ser utilizado
 
 8. Melhore a legibilidade do código, criando e invocando funções para tarefas específicas, e.g., popular candidatos, determinar vencedor, listar candidatos, etc.
 
+### 6 | Verificação de memória
+
+Verifique a correta gestão de memória dinâmica (*heap*).
+
 ### Exemplo de Execução
 
 ```
